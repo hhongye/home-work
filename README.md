@@ -4,5 +4,5 @@
 
 ### 마크다운
 
-- [](./src/md/markdown.md)
+- [avatars](src/avatars/avatars.html)
 - [회고](src/avatars/avatars.md)
