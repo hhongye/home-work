@@ -4,5 +4,5 @@
 
 ### 마크다운
 
-- [로그인](src/login/login.html)
+- [로그인](src/login)
 - [회고](src/login/login.md)
