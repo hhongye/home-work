@@ -4,5 +4,5 @@
 
 ### 마크다운
 
-- [로그인](src/login)
+- [Apple](src/login)
 - [회고](src/login/login.md)
