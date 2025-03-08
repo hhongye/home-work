@@ -1,0 +1,14 @@
+@import "./reset.css";
+@import "./theme.css";
+@import "./base.css";
+/* 구조(HTML)는 `apple.html` 파일에 스타일(CSS)은 `apple.css` 파일에 이번주 회고는 `apple.md` 파일에 작성해주세요.
+
+**`CSS Grid`**를 사용하여 **반응형 레이아웃**을 구현해주세요.
+
+- 중단점(breakpoint)은 **`1024px`**  
+(Small Screen - 1024px 이하 / Large Screen - 1024px 이상)
+- Apple 제폼 이미지는 <img> 요소가 아닌 CSS의 `background 속성`을 활용하여 구현.
+이 때 디바이스의 `픽셀 밀도`에 따라 1배율 또는 2배율 이미지가 배경으로 반영되도록 구현.
+- **`theme.css`** 파일에 제공 된 값(색상, 텍스트 크기, 여백 등)을 사용하여 구현. */
+
+/* 텍스트 컴포넌트 */
